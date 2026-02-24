@@ -4,7 +4,7 @@
 
 I started in the technology industry in 1979 at Signetics Corp when microprocessors were still new. I moved from laser scribing to board-level system repair and hands-on microprocessor work across 8080, 286, 386, 486, Pentium, and Pentium II systems.
 
-I worked through DOS 3.3 to Windows NT, 2000, and XP, and later served as a Network Administrator earning both Microsoft MCSE and Cisco CCNP certifications during the early enterprise networking era.
+I worked through DOS 3.3 to Windows NT, 2000, and XP, later serving as a Network Administrator and earning Microsoft MCSE and Cisco CCNP certifications during the early enterprise networking era.
 
 After stepping away to build a successful second career in carpentry, I never stopped building systems as a hobbyist.
 
@@ -16,19 +16,19 @@ I intend to be part of this one too.
 
 ---
 
-## Current Focus
+## 🔭 Current Focus
 
 - AI Systems Engineering  
-- Large Language Models & Agent Architectures  
+- LLMs & Agent Architectures  
 - Retrieval-Augmented Generation (RAG)  
-- Local AI toolchains  
-- Practical Machine Learning foundations  
+- Local AI Toolchains  
+- Practical Machine Learning Foundations  
 
 ---
 
-## Philosophy
+## 🧠 Philosophy
 
-I believe AI is not just a tool — it is a partner.
+AI is not just a tool — it is a partner.
 
 Builders build.  
 Learners learn.  
