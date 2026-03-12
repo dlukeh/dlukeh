@@ -14,7 +14,7 @@ It feels like the early days of the 80s computer revolution.
 
 I intend to be part of this one too.
 
-"I have been talking to computers for decades "in 2025 they started talking back"
+"I have been talking to computers for decades, in 2025 they started talking back"
 
 ---
 
