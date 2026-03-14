@@ -35,3 +35,16 @@ AI is not just a tool — it is a partner.
 Builders build.  
 Learners learn.  
 Revolutions reward those who show up early.
+
+
+## 📘 Deep Dives & Technical Writing
+
+- **Understanding Transformers: A Deep Dive Into Modern AI Architecture**  
+  A comprehensive exploration of attention mechanisms, geometric meaning, emergent intelligence, and the architectural limits of transformer models.  
+  https://github.com/dlukeh/transformer-deep-dive
+
+
+  
+
+
+
